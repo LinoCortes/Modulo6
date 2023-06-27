@@ -9,10 +9,13 @@
          <div class="navbar-collapse collapse" id="navbarSupportedContent" style="">
              <ul class="navbar-nav ms-auto px-4">
                  <li class="nav-item px-3">
-                     <a class="nav-link active" href="contacto.jsp">Contacto</a>
+                     <a class="nav-link active" href="ServletContacto">Contacto</a>
                  </li>
                  <li class="nav-item px-3">
-                     <a class="nav-link active" href="crearCapacitacion.jsp">Crear Capacitación</a>                        
+                     <a class="nav-link active" href="ServletCrearCapacitacion">Crear Capacitación</a>                        
+                 </li>
+                 <li class="nav-item px-3">
+                     <a class="nav-link active" href="ServletListarCapacitaciones">Listar Capacitaciones</a>                        
                  </li>
              </ul>
          </div>

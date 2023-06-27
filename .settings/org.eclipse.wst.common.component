@@ -6,6 +6,7 @@
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/target/generated-sources/annotations"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/java"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/target/generated-test-sources/test-annotations"/>
+        <wb-resource deploy-path="/" source-path="/src/main/java/servlets"/>
         <property name="context-root" value="ejerciciogrupal"/>
         <property name="java-output-path" value="/ejerciciogrupal/target/classes"/>
     </wb-module>

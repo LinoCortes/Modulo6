@@ -22,6 +22,12 @@
   	<description></description>
   	<servlet-class>servlets.ServletCrearCapacitacion</servlet-class>
   </servlet>
+  <servlet>
+  	<servlet-name>ServletListarCapacitaciones</servlet-name>
+  	<display-name>ServletListarCapacitaciones</display-name>
+  	<description></description>
+  	<servlet-class>servlets.ServletListarCapacitaciones</servlet-class>
+  </servlet>
   <servlet-mapping>
   	<servlet-name>ServletIndex</servlet-name>
   	<url-pattern>/ServletIndex</url-pattern>
@@ -33,5 +39,9 @@
   <servlet-mapping>
   	<servlet-name>ServletCrearCapacitacion</servlet-name>
   	<url-pattern>/ServletCrearCapacitacion</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>ServletListarCapacitaciones</servlet-name>
+  	<url-pattern>/ServletListarCapacitaciones</url-pattern>
   </servlet-mapping>
 </web-app>
