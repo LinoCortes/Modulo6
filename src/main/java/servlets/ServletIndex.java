@@ -7,7 +7,13 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Servlet implementation class ServletIndex
+ * Ejercicio Grupal 1 Modulo 6 
+ * Grupo 7
+ * Integrantes: 
+ * 	Lino Cortes
+ * 	Felipe Toro
+ * 	Pedro Urbina
+ * 	Sergio Morales
  */
 public class ServletIndex extends HttpServlet {
 	private static final long serialVersionUID = 1L;
