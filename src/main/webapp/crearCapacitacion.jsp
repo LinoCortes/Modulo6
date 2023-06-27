@@ -27,6 +27,7 @@
 <link rel="stylesheet" type="text/css" href="css/styles.css">
 </head>
 <body class="hero-section-login">
+<jsp:include page="resources/navbar.jsp" />
 	<h1 class="text-center">Crear Capacitación</h1>
 
 	<div class="container centered-form">

@@ -15,8 +15,10 @@
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <!-- Bootstrap 5.1.3 -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="css/styles.css">
 </head>
 <body class="hero-section-login">
+	<jsp:include page="resources/navbar.jsp" />
 	<div>
 		<h1 class="text-center text-black col-md-4 mx-auto mt-5 p-4">Contacto</h1>
 	</div>

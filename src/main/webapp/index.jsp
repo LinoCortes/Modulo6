@@ -33,6 +33,7 @@
 <link rel="stylesheet" type="text/css" href="css/styles.css">
 </head>
 <body>
+<jsp:include page="resources/navbar.jsp" />
 	<header id="inicio" class="hero-section">
 		<h1>Asesorías de riesgo, charlas y capacitaciones ¡¡¡</h1>
 		<h2 class="text-dark">Cuenta con nosotros y gestionamos y
