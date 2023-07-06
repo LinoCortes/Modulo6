@@ -9,7 +9,7 @@
          <div class="navbar-collapse collapse" id="navbarSupportedContent" style="">
              <ul class="navbar-nav ms-auto px-4">
                  <li class="nav-item px-3">
-                     <a class="nav-link active" href="ServletContacto">Contacto</a>
+                     <a class="nav-link active" href="">Contacto</a>
                  </li>
                  <li class="nav-item px-3">
                      <a class="nav-link active" href="ServletCrearCapacitacion">Crear Capacitación</a>                        

@@ -22,7 +22,6 @@
 <link rel="stylesheet" type="text/css" href="css/styles.css">
 </head>
 <body class="hero-section-login">
-	<jsp:include page="resources/navbar.jsp" />
 	<div>
 		<h1 class="text-center text-black col-md-4 mx-auto p-1">Listar
 			Capacitaciones</h1>
